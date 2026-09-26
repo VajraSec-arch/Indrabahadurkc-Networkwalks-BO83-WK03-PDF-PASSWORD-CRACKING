@@ -1,12 +1,14 @@
 # 🔐 PDF PASSWORD CRACKING 
-## John the Ripper🕵️‍♂️ NetworkWalks Password Cracker👨‍💻
+## John the Ripper🕵️‍♂️ NetworkWalks Password Hash Calculator💻 NetworkWalks Password Cracker👨‍💻
 
 ## Cybersecurity Project Report
 
 
 | submitted by:      | Indra bahadur kc                                                     |
 | -------------- | ----------------------- |
-| Project: | Week3 PDF Password cracking. |
+| Program / Batch: |  B083 – Networkwalks |
+| Week:    | 03
+| Date: | 26-09-2026 |
 | Instructor: | Waqas Karim (CCIE) |.
 
 
